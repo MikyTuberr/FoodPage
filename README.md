@@ -1,4 +1,5 @@
 # FoodApp
+A simple web application built with Angular, featuring a product search functionality and a shopping cart mechanism.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
